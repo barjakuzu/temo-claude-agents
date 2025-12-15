@@ -1,9 +1,8 @@
 {
   "name": "temo-agents",
   "description": "Personal productivity agents for full-stack development, MongoDB, API integrations, and server security",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Temo"
-  },
-  "agents": "./agents/*.md"
+  }
 }
