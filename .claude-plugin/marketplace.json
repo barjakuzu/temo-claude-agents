@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "temo-agents",
-      "source": ".",
+      "source": "./",
       "description": "MongoDB, API Integration, and Server Security agents"
     }
   ]
