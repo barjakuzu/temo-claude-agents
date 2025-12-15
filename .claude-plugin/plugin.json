@@ -5,5 +5,5 @@
   "author": {
     "name": "Temo"
   },
-  "agents": "./agents/*.md"
+  "agents": "../agents/*.md"
 }
