@@ -1,0 +1,16 @@
+{
+  "name": "temo-agents-marketplace",
+  "owner": {
+    "name": "Temo"
+  },
+  "metadata": {
+    "description": "Personal Claude Code agents for MongoDB, API integrations, and server security"
+  },
+  "plugins": [
+    {
+      "name": "temo-agents",
+      "source": ".",
+      "description": "MongoDB, API Integration, and Server Security agents"
+    }
+  ]
+}
