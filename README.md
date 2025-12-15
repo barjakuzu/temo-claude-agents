@@ -40,7 +40,7 @@ To update on all machines after pushing changes:
 
 ## Adding More Agents
 
-1. Create a new `.md` file in the `agents/` folder
+1. Create a new `.md` file in the `.claude-plugin/agents/` folder
 2. Use frontmatter format:
    ```yaml
    ---
